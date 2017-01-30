@@ -1,0 +1,4 @@
+Mon Dec 07 13:32:35 EET 2015:  Test text
+Mon Dec 07 13:32:36 EET 2015:  .
+Mon Dec 07 14:39:18 EET 2015:  Second test text.
+Mon Dec 07 14:39:19 EET 2015:  .

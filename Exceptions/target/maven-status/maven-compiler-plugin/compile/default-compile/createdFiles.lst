@@ -1,0 +1,8 @@
+com\sirma\itt\javacourse\exceptions\readsnumbersfromconsole\RunReader.class
+com\sirma\itt\javacourse\exceptions\readsnumbersfromconsole\ReaderException.class
+com\sirma\itt\javacourse\exceptions\list\List.class
+com\sirma\itt\javacourse\exceptions\readsnumbersfromconsole\Reader.class
+com\sirma\itt\javacourse\exceptions\list\FullListException.class
+com\sirma\itt\javacourse\exceptions\sumator\Sumator.class
+com\sirma\itt\javacourse\exceptions\sumator\RunSumator.class
+com\sirma\itt\javacourse\exceptions\list\EmptyListException.class

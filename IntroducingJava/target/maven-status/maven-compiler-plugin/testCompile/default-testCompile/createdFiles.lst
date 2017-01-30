@@ -1,0 +1,8 @@
+test\java\com\sirma\itt\javacourse\intro\summinglargenumbers\TestSummingLargeNumbers.class
+test\java\com\sirma\itt\javacourse\intro\hangmangame\TestHangman.class
+test\java\com\sirma\itt\javacourse\intro\randomstring\TestRandomString.class
+test\java\com\sirma\itt\javacourse\intro\greatestcommondivisor\TestGreatestCommonDivisor.class
+test\java\com\sirma\itt\javacourse\intro\arrayprocessing\TestArrayProcessing.class
+test\java\com\sirma\itt\javacourse\intro\arraysorting\TestArraySorting.class
+test\java\com\sirma\itt\javacourse\intro\findingmedian\TestFindingTheArraysMedian.class
+test\java\com\sirma\itt\javacourse\intro\arrayreverse\TestArrayReverse.class

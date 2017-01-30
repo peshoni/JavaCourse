@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.9" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <interface id="1" language="java" name="main.java.com.sirma.itt.javacourse.objects.supermarket.Contract" 
+    project="Objects in Java" 
+    file="/Objects in Java/src/main/java/com/sirma/itt/javacourse/objects/supermarket/Contract.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="63" width="246" x="30" y="128"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="2" language="java" name="main.java.com.sirma.itt.javacourse.objects.supermarket.Manager" 
+    project="Objects in Java" 
+    file="/Objects in Java/src/main/java/com/sirma/itt/javacourse/objects/supermarket/Manager.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="246" x="1727" y="409"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="main.java.com.sirma.itt.javacourse.objects.supermarket.Product" 
+    project="Objects in Java" 
+    file="/Objects in Java/src/main/java/com/sirma/itt/javacourse/objects/supermarket/Product.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="246" x="583" y="409"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="main.java.com.sirma.itt.javacourse.objects.supermarket.Order" 
+    project="Objects in Java" 
+    file="/Objects in Java/src/main/java/com/sirma/itt/javacourse/objects/supermarket/Order.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="246" x="583" y="180"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="main.java.com.sirma.itt.javacourse.objects.supermarket.RandomCustomer" 
+    project="Objects in Java" 
+    file="/Objects in Java/src/main/java/com/sirma/itt/javacourse/objects/supermarket/RandomCustomer.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="246" x="297" y="409"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="main.java.com.sirma.itt.javacourse.objects.supermarket.DeliveryContact" 
+    project="Objects in Java" 
+    file="/Objects in Java/src/main/java/com/sirma/itt/javacourse/objects/supermarket/DeliveryContact.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="246" x="869" y="180"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="main.java.com.sirma.itt.javacourse.objects.supermarket.Emploee" 
+    project="Objects in Java" 
+    file="/Objects in Java/src/main/java/com/sirma/itt/javacourse/objects/supermarket/Emploee.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="246" x="1727" y="180"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="main.java.com.sirma.itt.javacourse.objects.supermarket.Provider" 
+    project="Objects in Java" 
+    file="/Objects in Java/src/main/java/com/sirma/itt/javacourse/objects/supermarket/Provider.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="246" x="1155" y="409"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="main.java.com.sirma.itt.javacourse.objects.supermarket.Seller" 
+    project="Objects in Java" 
+    file="/Objects in Java/src/main/java/com/sirma/itt/javacourse/objects/supermarket/Seller.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="246" x="2013" y="409"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="main.java.com.sirma.itt.javacourse.objects.supermarket.Staff" 
+    project="Objects in Java" 
+    file="/Objects in Java/src/main/java/com/sirma/itt/javacourse/objects/supermarket/Staff.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="246" x="1441" y="409"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="main.java.com.sirma.itt.javacourse.objects.supermarket.LegalEntity" 
+    project="Objects in Java" 
+    file="/Objects in Java/src/main/java/com/sirma/itt/javacourse/objects/supermarket/LegalEntity.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="189" width="246" x="1155" y="180"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="main.java.com.sirma.itt.javacourse.objects.supermarket.Supermarket" 
+    project="Objects in Java" 
+    file="/Objects in Java/src/main/java/com/sirma/itt/javacourse/objects/supermarket/Supermarket.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="246" x="869" y="409"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="main.java.com.sirma.itt.javacourse.objects.supermarket.RegularCustomer" 
+    project="Objects in Java" 
+    file="/Objects in Java/src/main/java/com/sirma/itt/javacourse/objects/supermarket/RegularCustomer.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="246" x="11" y="409"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="main.java.com.sirma.itt.javacourse.objects.supermarket.Customer" 
+    project="Objects in Java" 
+    file="/Objects in Java/src/main/java/com/sirma/itt/javacourse/objects/supermarket/Customer.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="246" x="297" y="180"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="main.java.com.sirma.itt.javacourse.objects.supermarket.EmployementContract" 
+    project="Objects in Java" 
+    file="/Objects in Java/src/main/java/com/sirma/itt/javacourse/objects/supermarket/EmployementContract.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="246" x="1441" y="180"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="main.java.com.sirma.itt.javacourse.objects.supermarket.Human" 
+    project="Objects in Java" 
+    file="/Objects in Java/src/main/java/com/sirma/itt/javacourse/objects/supermarket/Human.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="153" width="246" x="1012" y="-13"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="17">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="18" name="productOne"/>      
+      <multiplicity id="19" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="20">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <association id="21">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="22" name="sellerOne"/>      
+      <multiplicity id="23" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="24">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <realization id="25">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <generalization id="26">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <generalization id="27">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <association id="28">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="29" name="providerOne"/>      
+      <multiplicity id="30" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="31">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="32" name="supermarketOne"/>      
+      <multiplicity id="33" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="34">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <association id="35">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="36" name="manager"/>      
+      <multiplicity id="37" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="38">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <realization id="39">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <association id="40">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="41" name="supermarketOne"/>      
+      <multiplicity id="42" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="43">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <association id="44">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="45" name="regularCustomeRoNE"/>      
+      <multiplicity id="46" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="47">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <realization id="48">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <association id="49">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="50" name="randomcustomer"/>      
+      <multiplicity id="51" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="52">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="53" name="supermarketOne"/>      
+      <multiplicity id="54" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="55">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="56" name="productOne"/>      
+      <multiplicity id="57" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="58">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <association id="59">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="60" name="personOne"/>      
+      <multiplicity id="61" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
